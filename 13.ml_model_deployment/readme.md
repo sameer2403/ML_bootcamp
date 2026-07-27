@@ -2,7 +2,7 @@
 
 ---
 
-## 16.1 Deployment Overview — Section Roadmap
+## Deployment Overview — Section Roadmap
 
 > **Why Deployment Matters:** A model that lives only in a Jupyter notebook has zero real-world value. Deployment is the bridge between a trained model and a product that users or systems can actually call. This section covers the full journey — from saving a model file to hosting it on a cloud server behind a REST API.
 
