@@ -1,0 +1,15 @@
+2026-07-27 14:50:30,303 - INFO - Program started
+2026-07-27 14:50:30,303 - WARNING - This is a warning message
+2026-07-27 14:50:30,303 - ERROR - This is an error message
+2026-07-27 14:51:52,170 - INFO - Program started
+2026-07-27 14:51:52,170 - WARNING - This is a warning message
+2026-07-27 14:51:52,170 - ERROR - This is an error message
+2026-07-27 14:53:13,904 - INFO - Program started
+2026-07-27 14:53:13,904 - WARNING - This is a warning message
+2026-07-27 14:53:13,904 - ERROR - This is an error message
+2026-07-27 14:54:15,070 - INFO - Program started
+2026-07-27 14:54:15,070 - DEBUG - Debugging code
+2026-07-27 14:54:15,070 - WARNING - This is a warning message
+2026-07-27 14:54:15,070 - ERROR - This is an error message
+2026-07-27 15:09:46,205 - INFO - Loading dataset
+2026-07-27 15:09:46,213 - INFO - Dataset loaded successfully

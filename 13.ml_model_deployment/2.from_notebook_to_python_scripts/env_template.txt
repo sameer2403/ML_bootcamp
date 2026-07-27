@@ -1,0 +1,3 @@
+DATASET_PATH="path/of/dataset"
+MODEL_PATH="path/of/model/file"
+ENVIRONMENT=development
